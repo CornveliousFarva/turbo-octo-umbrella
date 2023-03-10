@@ -33,3 +33,43 @@ body{
     background-color: orangered;
     margin-top: 30px;
 }
+
+.white-key{
+    width: 30px;
+    height: 200px;
+    display: inline-block;
+    border: solid black 2px;
+    box-shadow: 2px 5px;
+    background-color: white;
+    color: black;
+}
+
+.black-key{
+    width: 25px;
+    height: 100px;
+    display: inline-block;
+    background-color: #141c31;
+    color: whitesmoke;
+    position: absolute;
+    margin-left: -12px;
+    padding: 0px;
+}
+
+.keynote{
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    margin-top: 175px;
+    color: #141c31;
+}
+
+.black-keynote{
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    margin-top: 75px;
+}
