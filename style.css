@@ -55,7 +55,7 @@ body{
     padding: 0px;
 }
 
-.keynote{
+.white-keynote{
     width: 20px;
     height: 20px;
     text-align: center;
@@ -72,4 +72,25 @@ body{
     display: block;
     margin: 0 auto;
     margin-top: 75px;
+}
+
+#lyrics{
+    width: 400px;
+    height: 240px;
+    display: block;
+    margin: 0 auto;
+    padding-left: 20px;
+    margin-top: 50px;
+    background-color: orangered;
+}
+
+#column-one, #column-two, #column-three, #column-four, #column-five, #column-six, #column-seven, #column-optional{
+    width: 90px;
+    display: inline;
+    text-align: center;
+    margin-top: 30px;
+}
+
+#column-optional{
+    display: none;
 }
