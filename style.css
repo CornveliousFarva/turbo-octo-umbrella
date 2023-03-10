@@ -94,3 +94,12 @@ body{
 #column-optional{
     display: none;
 }
+
+#word-one, #word-two, #word-three, #word-four, #word-five, #word-six, #word-optional{
+    background-color: whitesmoke;
+    width: 90px;
+    height: 25px;
+    padding-top: 10px;
+    letter-spacing: 5px;
+    color: #141c31;
+}
